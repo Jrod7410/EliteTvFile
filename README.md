@@ -1,2 +1,0 @@
-# EliteTvFile
-EliteTv.apks
